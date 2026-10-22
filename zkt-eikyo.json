@@ -1,0 +1,1783 @@
+{
+ "work": "恵慶法師集",
+ "work_id": "zkt-eikyo",
+ "repo": "kumoi-no-fumigura/egyo-hoshi-shu",
+ "yomi": "えぎょうほうししゅう",
+ "category": "私家集",
+ "kind": "kashu",
+ "era": "平安中期",
+ "author": "恵慶法師",
+ "editions": [
+  {
+   "pid": "873676",
+   "title": "続国歌大観 歌集部 第二冊",
+   "editor": "松下大三郎 編",
+   "series": "続国歌大観",
+   "publisher": "",
+   "year": 1911,
+   "pages": "",
+   "url": "https://dl.ndl.go.jp/pid/873676"
+  }
+ ],
+ "status": "未校正（續國歌大觀 第二冊の OCR から 1 首ずつ切り出し。歌番号は未確定）",
+ "license": {
+  "text": "CC0 1.0"
+ },
+ "blocks": [
+  {
+   "id": "zkt-eikyo-0001",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "★あさりする與謝の額人誇るらむ浦風ぬるく置渡れり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0002",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓〓〓へ〓〓〓〓〓〓〓〓てむ今日爲の初音きゝつと",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0003",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "關守に口かためてぞ我は行くなきぬと告ぐな山の營",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0004",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "我宿の梅は常磐に匂はなむ人め戀しと思はざるべき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0005",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "°みみこにも花なきならず山櫻等ねて惜む心知らなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0006",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一こむらさき柳の糸によりませて花の錦は我宿のもの",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0007",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一神まつるしるしありても時鳥けふ初聲を待出たる哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0008",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "我胸の常はすさめぬ真蒲草引並べては今日社は見れ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0009",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "六月よる宿の戶あけて眺めたる所",
+   "author": "",
+   "text": "明てぬるかひ社無れ我宿の槇の板戶に人し入らねば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0010",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "天の河影を宿せる水鏡たなばたつ女の逢湖しらせよ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0011",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "望月の駒ひく時は逢坂の木の下聞も見えずぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0012",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "九月志賀の由越",
+   "author": "",
+   "text": "一霧も立ち紅葉も散れる瓜生山越え惑ぬる今日にも有哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0013",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "十月山里に鷹すゑて人きだり",
+   "author": "",
+   "text": "狩ににる人なかりせば昔みし都の事を爭できかまし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0014",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "十一月あれたる女琴ひく男きてとひたり",
+   "author": "",
+   "text": "なの霜霜もとまらぬ宿に最どしく彈琴の音に袖ぞ濡ぬる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0015",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ここ船船岸の藤波高ければ先心をぞよすべかりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0016",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "花おもしろう咲きてすのこに男あり",
+   "author": "",
+   "text": "ニ防ざりし人も訪べく我宿の花の盛をすぐさずもがな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0017",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "海のほとりの社にまづる人あり",
+   "author": "",
+   "text": "一思ふ事みつ潮よする浦にます神のみ社仕へてぞゆく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0018",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "山里の垣根に卯の花咲きて女みる",
+   "author": "",
+   "text": "卯花の盛となれば山里のかた〓かする住ひをぞする",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0019",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "初秋",
+   "author": "",
+   "text": "秋といへば契置てや結ぶらむ淺芽が原の今朝の白露",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0020",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "馬にのりたる人秋の野をゆく",
+   "author": "",
+   "text": "秋の野の花に心をよせつゝぞ胸促さぬ今日にも有哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0021",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "人の家に女どもきたり",
+   "author": "",
+   "text": "〓宿宿の物とのみ見ば秋の夜の月夜よしとも人に〓まし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0022",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "月夜に笛ふきて男ゆく",
+   "author": "",
+   "text": "一月影に笛のね痛くすみぬ也まだねぬ秋のよや更の覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0023",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "山里の人の家に菊の花あるじ折りてつくるふ",
+   "author": "",
+   "text": "短霜にあてぬさきより菊の花繕ふ人の袖ぞつゆけき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0024",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "子日の所",
+   "author": "",
+   "text": "二二より相生してもみてしがなけふ契つるのべの小松と",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0025",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "人の家の遺水のほとりに山吹さきたる",
+   "author": "",
+   "text": "9千年すむ水に影さす山吹の花をのどかに惜むべき哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0026",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "人の家に櫻さきたり",
+   "author": "",
+   "text": "一櫻花人の心の割なさはあくともいはじ千年みるとも",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0027",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "やり水のつらに山吹の多くさけり水鳥遊ぶ",
+   "author": "",
+   "text": "三水鳥の流るゝ河の山吹は影をのみこそ厭ふべらなれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0028",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "月おもしろき夜紅葉をみて人々ゐたり",
+   "author": "",
+   "text": "紅葉を惜む心のわりなきにいかにせよとか秋夜の月",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0029",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "秋の月山にしかなく",
+   "author": "",
+   "text": "秋夜の月見るだにも飽なくに鹿の音さへも鳴添ふる哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0030",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "秋山のほとりに人々ゆきて紅葉みる",
+   "author": "",
+   "text": "紅葉みに草の枕や結ぶべき今日も暮なばあすもすぐさむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0031",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "田のほとりにかりする人あり",
+   "author": "",
+   "text": "如草苗とり己が作らぬ秋田を刈にきぬとや田主各めむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0032",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "春日野をみやりて",
+   "author": "",
+   "text": "〓ねわけ若菜摘にや止らまし春日の野べも近づきに見",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0033",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "同じ頃近江へ罷る道に鏡の山の本に雨に逢ひて",
+   "author": "",
+   "text": "鏡山こゆる今日しも春雨の搔曇りてや降べかりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0034",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "昔人の家ありける所の前なりける櫻のいとおもしろかりけるを見て",
+   "author": "",
+   "text": "があさぢ原ぬしなき宿の櫻花心やすくや風に散るらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0035",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "人ともろともに市原野の子日",
+   "author": "",
+   "text": "02二葉なる野べの小松にとよせて木高くならむ蔭を社まて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0036",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "大和にまかるにゐでと云ふ所いとおもしろし",
+   "author": "",
+   "text": "一山吹の花の盛にるでにきてこの里人となりぬべき說",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0037",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "中務の君山里にゐて春の歌十ありけるをみる其の題は案の儀、谷の鶯、殘りの雪、春の風、櫻運し",
+   "author": "",
+   "text": "〓なきぬやと立居まちつる爲は谷の內より聲ぞ聞つる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0038",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "殘りの雪",
+   "author": "",
+   "text": "二春春て殘りの雪は消ぬ共花を形見にみてもへぬべし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0039",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "春風",
+   "author": "",
+   "text": "四あら玉の一夜計を隔つるに風の心ぞこよなかりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0040",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "梅櫻おそし",
+   "author": "",
+   "text": "一山山ままつに心を盡しては惜まむ程もいかにせよとぞ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0041",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "柳",
+   "author": "",
+   "text": "一二春くれば梢もしらず靑柳のいとに心をよせみだる哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0042",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "をかの松",
+   "author": "",
+   "text": "語らはむ人もなき哉山里は岡の松風そよりほかには",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0043",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "ねん春を淺み旅の枕を結ぶべき草葉も若き頃にもある哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0044",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "00古古〓をこふる袂は岸近みおつる山水いづれともなし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0045",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "ある所に櫻惜むに",
+   "author": "",
+   "text": "〓櫻花待とせしまに春くればそならぬ事態ひやはする",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0046",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "山里に人の許にて櫻のちるをみて",
+   "author": "",
+   "text": "〓散〓の山べはうかり鳥世を通れにとこしかひもなく",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0047",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "年還りて二月になるまで待つ人の音づれねば云ひやる",
+   "author": "",
+   "text": "百千鳥聲の限は鳴きふりぬまだ吾信れぬ物は君のみ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0048",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "靑柳の糸は綠にあるものを孰れかあけの衣なるらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0049",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "東山に花見にありくとて山櫻",
+   "author": "",
+   "text": "山櫻近くみむとの心にて今日は置にかくまるゝかな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0050",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "稻荷のやみつの玉垣打たゝきわが願言を神も答へよ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0051",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "稻荷山みつすきなかに增鏡我〓とたてゝ賴むかひあれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0052",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "思ふ事ならざらめやは千早振神のみ前のみくま草也",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0053",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "草の庵り指てきつれど君まさで歸るみ山の道の露けさ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0054",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓荒果てゝ風も拂はぬ草の庵我はなく共露はもりけむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0055",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一種なくて無物草は生に鳬蒔といふ事は有じとぞ思ふ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0056",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一鳴ず共鳴らむと社またれけれ露山時鳥けふはいつぞは",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0057",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "神なびの杜の前をわたる",
+   "author": "",
+   "text": "神なびの杜のありすの郭公一聲きかでゆきや過けむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0058",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "語らふ人の深草といふ所にありと聞きて遣す",
+   "author": "",
+   "text": "深深の家ゐ絕ぬとせし程に袂さへこそ露けかりけれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0059",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "一度かりし人の心は深草の中を分けては肪じとぞ思ふ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0060",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "ある人の鏡のはこに",
+   "author": "",
+   "text": "ださす鏡の山は曇らねど峯の朝霧たえずもあらなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0061",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "語らふ人筑紫にくだりて年頃おとづれでたよりにつけて云へる",
+   "author": "",
+   "text": "花鳥をみても君しも忘れぬは都の方の人にぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0062",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "心都鳥君に後れし春よりも聲なきよわる我と知らずや",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0063",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "おほしまの鳴門といふ所にて潮みちまさりて",
+   "author": "",
+   "text": "2都にと急ぐかひなく大島の灘のかけぢは潮滿にけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0064",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "語らふ人のとほ國へまかるに鏡とらすとて",
+   "author": "",
+   "text": "別るれど影をばそへつます鏡とし月ふとも思忘るな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0065",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "五月五日めづらしき所にまかりて",
+   "author": "",
+   "text": "〓香をとめて訪人も有や萬蒲草怪く駒のすさめざりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0066",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "六月人海松院に涼みにまかりたる",
+   "author": "",
+   "text": "〓大井河岸に影さす海松の風にやせヾの波も立つらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0067",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "梅津にて鵜舟のかいりをみて",
+   "author": "",
+   "text": "梅津河ともす鵜舟の篝火に底の水屑も隱れざりけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0068",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "七月七夕",
+   "author": "",
+   "text": "七夕のあふ夜のかずを徒に過す月日になす由もがな",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0069",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "八月遠くまかる人に届をとらすとて",
+   "author": "",
+   "text": "以とと假に羽風を吹程に別れむ程やつくべかりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0070",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓荻の葉も稍打戰ぐ程なるをなどか雁がね音無るらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0071",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "やすだきけむ昔の人もなき宿に唯影するは秋の夜の月",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0072",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "袂がへする物にもが蟲の聲衣の袖もそぼち果てぬる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0073",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "か久方は手にとる計り成に鬼雲のゐるてふ寺に宿りて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0074",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "養の聲",
+   "author": "",
+   "text": "0唐表夜風涼しくなる故にきり〓〓すさへ鳴亂れつゝ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0075",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "鳥のこのやうなる瓜をある所に奉るとて",
+   "author": "",
+   "text": "「我君のますべき千世の印には鶴のこに社瓜も成けれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0076",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "朝麥をある所にたてまつる",
+   "author": "",
+   "text": "山〓の垣ほ乍らにみるよりは色優るべき宿に移さむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0077",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "宿わかず露だに染むる物ならば暖元の垣ほの色は變じ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0078",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "或るところに瓜やるとて",
+   "author": "",
+   "text": "瓜生山秋立鹿の假もりに露けきめをもみつるけさ哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0079",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "同じ人の許に靑つゞらをこにくみて棗栗などを花にませてやるとて",
+   "author": "",
+   "text": "〓繰返、し籬の內に花つめばいとまかりにも有とやは思",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0080",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "かわざと社栗はなつめれ曲木に這まつはるゝ靑葛籠哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0081",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "二等九月ばかり花見に人々まかりて秋野の花",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0082",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "霧を",
+   "author": "",
+   "text": "玉鉾の道行きちがふ狩人の跡見えぬまでくらき朝霧",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0083",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "花ずゝき",
+   "author": "",
+   "text": "秋風にかずへてなびく花海心よせある方やなからむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0084",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "つゆ",
+   "author": "",
+   "text": "拾へ共袖のみ濡て留らぬは玉とみえつる露にぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0085",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "。遠山のをにたつ鹿の聲聞てもて離れても濡るゝ袖哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0086",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "。濃紫たが袖かけし衣ぞとみゆるは秋の野萩なりけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0087",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "きり〓〓す",
+   "author": "",
+   "text": "30鳴く聲も我にて知りぬ恭浮世背きて野べにまじらば",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0088",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "來るかり",
+   "author": "",
+   "text": "。○珍しと思ひし中に初胴の待とせしまに老果てにけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0089",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "orにに我我はみえけれ女女花花蓮達もめ物にぞ有ける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0090",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "x0秋風の吹につけてぞ歎きつる世にへむ程は短りりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0091",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "加松風も岸うつ波ともろ共に昔にもあらぬ昔のする哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0092",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "〓植置きし主はなくて菊の花おのれ獨ぞ露けかりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0093",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "No唐錦級つむ峯の村紅葉見初る今日はあからめもせず",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0094",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "po親きも疎きも無と聞しかど分きてしもやは訪べかりける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0095",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "返し",
+   "author": "",
+   "text": "。玉鉾の道行摺にとはずとも常に心に行きかふものを",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0096",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "十月ばかり初瀬にまでゝ歸るに日くれぬれば佐保山の麓にやどりて夜なれば紅葉みえぬ心人々",
+   "author": "",
+   "text": "一佐保山の風の心も知ずして紅葉みずとや今宵明さむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0097",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "又のあしたに山霧にかくれたり",
+   "author": "",
+   "text": "ニ紅葉みにきたる我とも知らればや佐保の河霧立際すらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0098",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "深き秋",
+   "author": "",
+   "text": "紅の色どる山の梢にぞ秋のふかきはまづ知られける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0099",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "十月大井河の紅葉みに人々まかる所に",
+   "author": "",
+   "text": "大井河川べの紅葉散らめまはとなせの岸に長居しぬべし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0100",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "十二月ある所の歌合させ給ひしに、松、庭の梅、冬月、池の氷",
+   "author": "",
+   "text": "むらたづの宿れる枝と見るまでに松の綠も埋む白雪",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0101",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "庭のうめ",
+   "author": "",
+   "text": "白雪の古年ながら庭の梅は花と喞ちて匂ひやはせぬ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0102",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "滋の水",
+   "author": "",
+   "text": "一波よする葦のうらばも音せぬは池の氷や閉果てぬらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0103",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "冬の夜の月",
+   "author": "",
+   "text": "ん天の原空さへさえや增るらむ氷と見ゆる冬の夜の月",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0104",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "近江にひらと云ふ所に人々まかりて題ども出して歌よみ侍るに、山河の紅葉",
+   "author": "",
+   "text": "本店錦あはなる原によりければ山水に社亂るべらなれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0105",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "夜の嵐",
+   "author": "",
+   "text": "〓紅葉ゆゑみ山ほとりにやどりして夜の嵐に靜心なし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0106",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "寢覺のしか",
+   "author": "",
+   "text": "一人もこず隣たえ渡る山里に身覺の鹿の聲のみぞする",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0107",
+   "pid": "873676",
+   "pages": [
+    75
+   ],
+   "no": null,
+   "kotobagaki": "岸のほとりの菊",
+   "author": "",
+   "text": "二岸近く殘れる菊は霜ならで波をさへ社凌ぐべらなれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0108",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "水島波に遊ぶ",
+   "author": "",
+   "text": "一見人は沖つ荒浪疎けれどわざと馴ぬる爲たがへかも",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0109",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "初雪のみねをみて",
+   "author": "",
+   "text": "〓水だにまだ山川にむすばねど人の垣根は雪降にけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0110",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "綱手ひく舟をみて",
+   "author": "",
+   "text": "に淀みなく波路に通ふ〓卅は孰こを宿とさして行らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0111",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "波の聲をきゝて",
+   "author": "",
+   "text": "磁磁堀に騒ぐ波だに高ければ冬の木葉も今日は止らし",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0112",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "風の音の高きを聞きて",
+   "author": "",
+   "text": "〓ひらの山紅葉よのまはいかならむ岑の村風打類り吹",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0113",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "歸さに北山よりこゆるに紅葉いと多く散りかゝ",
+   "author": "",
+   "text": "〓山繁み木の下行けば紅葉も衣そぼちぬ雨とこそふれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0114",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "あるやうどなき所より菊の移へるを戴き參れば",
+   "author": "",
+   "text": "た山里に匂ふをみれば菊の花たきどの籬思ひこそやれ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0115",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "年の終に曆のぢくのもとまでまきよせたる心を人々よむに",
+   "author": "",
+   "text": "ceまきよする曆の心恥しく殘りの日々に老みえにけり",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0116",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "つごもりの夜としの行きかふ心人々よむに",
+   "author": "",
+   "text": "『降雪に霞みあひてやいたるらむ年行違ふよはの大空",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0117",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "住吉に人々までゝすみよしといふ心をよむ",
+   "author": "",
+   "text": "ニわがとはヾ神世の〓とも答へなむ昔をしれる住吉の松",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0118",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "河原の院あれたる心人々よむ",
+   "author": "",
+   "text": "一草繁み庭こそあれて年へぬれ忘れぬ物は秋の夜の月",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0119",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "とやまの軒ばの道よりたひゝきこゆるやうにするをみて",
+   "author": "",
+   "text": "見るからに消社しぬれ軒ば行人は露けき進やわく覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0120",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "ある所にて罪麥を惜む",
+   "author": "",
+   "text": "平心みに歸れば苦しなほざりに宿やからまし撫子の花",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0121",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "ある所に、洲の葦、草の登、夏の夜の月",
+   "author": "",
+   "text": "地也もそこの月影見べきに蘆のうら葉の山に際れて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0122",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "草の釜",
+   "author": "",
+   "text": "〓水莖の跡路ならす我ならば草の盛をよそにみましや",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0123",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "夏の夜の月",
+   "author": "",
+   "text": "〓時鳥何ならぬ哉夏の夜の月みるほにえん思ひあはせて",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0124",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "重之子に後れて悲しぶと聞きて遣す",
+   "author": "",
+   "text": "ね契あらば又は此世に生るとも面變してみも忘れなむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0125",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "或る人かはらに出でゝ道遙するに風のいみじう吹けばいひやる",
+   "author": "",
+   "text": "co靑葉なるかもの河原に群居つゝあけの衣は凉しかる覽",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0126",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "一夏友立ちいでゝ涼む河風に却りてけふは人ぞ戀しき",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0127",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "草子の給に須磨の浦のかたを書きたるにかみの社に舟より行く人の波の高ければたよせにみてぐら奉る",
+   "author": "",
+   "text": "ニたたせせははははざらなむ渡つ海に祈る心は神ぞ知らむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0128",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "",
+   "author": "",
+   "text": "白雲に色みえ紛ふ御幣をたよせにうけよかみの此神",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0129",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "同じ給に旅ゆく人十月ばかりに紅葉のもとに宿りたるを",
+   "author": "",
+   "text": "行末も紅葉のもとに宿らまし惜むに旅の日毎へに鳬",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0130",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "前栽あはせの所",
+   "author": "",
+   "text": "勝負のかずには露を置てやは花と花との色に比ぶる",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0131",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "わらはべはかたてゝとりとる",
+   "author": "",
+   "text": "〓思思と無き世なるべし村鳥の今日は鳴音も絕て聞えぬ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0132",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "紅葉に鳥のゐたる所",
+   "author": "",
+   "text": "如紅葉みて歸らむ方もおぼえぬを呼子鳥さへ嗚山路哉",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0133",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "石にうみ松の生ひたる或る所に奉る",
+   "author": "",
+   "text": "小動きなき巖にねざす海松の千年は誰に波もよすらむ",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0134",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "水無月ばかり河原の院にかれこれ集まりたり",
+   "author": "",
+   "text": "か統絶て荒たる宿の月みれば秋の隣になりぞしにける",
+   "sachu": "",
+   "jo": ""
+  },
+  {
+   "id": "zkt-eikyo-0135",
+   "pid": "873676",
+   "pages": [
+    76
+   ],
+   "no": null,
+   "kotobagaki": "あるみこたちの御五十口の洲濱に",
+   "author": "",
+   "text": "0千千すむ水の流はいとヾしくそこの梢の數をさす哉",
+   "sachu": "",
+   "jo": ""
+  }
+ ]
+}
