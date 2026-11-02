@@ -29,7 +29,10 @@
  "license": {
   "text": "CC0 1.0"
  },
- "translation": "",
+ "translation": {
+  "count": 135,
+  "note": "AI による現代語訳"
+ },
  "blocks": [
   {
    "id": "zkt-eikyo-0001",
@@ -1934,7 +1937,7 @@
   "blocks": 135,
   "chars": 3137,
   "poems": 135,
-  "yaku": 0,
+  "yaku": 135,
   "editions": 1,
   "updated": "2026-11-02",
   "updated_at": "2026-11-02T14:14:42+09:00"
